@@ -21,7 +21,7 @@ env:
 
 jobs:
   build:
-    if: github.repository == 'allgol-de/trainingdays'
+    if: github.repository == 'algol-de/trainingdays'
     runs-on: ubuntu-latest
     env:
       BICEP_FILE_PATH: "./day5/apps/infrastructure/bicep/common/commonmain.bicep"
