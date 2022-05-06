@@ -1,0 +1,12 @@
+[
+    {
+      "adminConsentDescription": "Allow the application to access challengeimplicitgrantapi on behalf of the signed-in user.",
+      "adminConsentDisplayName": "Access challengeimplicitgrantapi",
+      "id": "f27e2f61-3833-4c0c-ab56-951e059f6750",
+      "isEnabled": false,
+      "type": "User",
+      "userConsentDescription": "Allow the application to access challengeimplicitgrantapi on your behalf.",
+      "userConsentDisplayName": "Access challengeimplicitgrantapi",
+      "value": "user_impersonation"
+    }
+]
